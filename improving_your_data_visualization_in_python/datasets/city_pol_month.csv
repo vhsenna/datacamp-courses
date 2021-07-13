@@ -1,0 +1,313 @@
+city_pol,month,value
+Cincinnati CO,2,-0.470791
+Cincinnati CO,3,-0.371744
+Cincinnati CO,4,-0.555778
+Cincinnati CO,5,-0.496432
+Cincinnati CO,6,-0.642432
+Cincinnati CO,7,-0.479491
+Cincinnati CO,8,-0.428159
+Cincinnati CO,9,-0.376166
+Cincinnati CO,10,0.030781
+Cincinnati CO,11,-0.379842
+Cincinnati CO,12,-0.447980
+Denver CO,1,3.099019
+Denver CO,2,0.967320
+Denver CO,3,0.695049
+Denver CO,4,0.265079
+Denver CO,5,0.111161
+Denver CO,6,-0.002763
+Denver CO,7,0.008927
+Denver CO,8,0.318952
+Denver CO,9,0.318764
+Denver CO,10,0.771285
+Denver CO,11,1.450819
+Denver CO,12,1.348399
+Des Moines CO,4,-0.756265
+Des Moines CO,5,-0.632522
+Des Moines CO,6,-0.538447
+Des Moines CO,7,-0.658391
+Des Moines CO,8,-0.544139
+Des Moines CO,9,-0.515286
+Des Moines CO,10,-0.495119
+Houston CO,1,0.045596
+Houston CO,2,-0.120253
+Houston CO,3,-0.102479
+Houston CO,4,-0.569248
+Houston CO,5,-0.579131
+Houston CO,6,-0.637286
+Houston CO,7,-0.544152
+Houston CO,8,-0.401629
+Houston CO,9,-0.280137
+Houston CO,10,0.085645
+Houston CO,11,-0.388193
+Houston CO,12,0.337732
+Indianapolis CO,1,-0.237781
+Indianapolis CO,2,-0.409979
+Indianapolis CO,3,-0.138463
+Indianapolis CO,4,-0.134058
+Indianapolis CO,5,-0.204534
+Indianapolis CO,6,-0.267888
+Indianapolis CO,7,-0.407829
+Indianapolis CO,8,-0.298558
+Indianapolis CO,9,-0.233842
+Indianapolis CO,10,0.212222
+Indianapolis CO,11,-0.254306
+Indianapolis CO,12,-0.550701
+Long Beach CO,1,4.097709
+Long Beach CO,2,2.503472
+Long Beach CO,3,0.430765
+Long Beach CO,4,-0.134058
+Long Beach CO,5,-0.194369
+Long Beach CO,6,-0.506936
+Long Beach CO,7,-0.415453
+Long Beach CO,8,-0.362088
+Long Beach CO,9,0.259827
+Long Beach CO,10,1.777598
+Long Beach CO,11,2.764937
+Long Beach CO,12,3.569046
+Vandenberg Air Force Base CO,1,-0.575548
+Vandenberg Air Force Base CO,2,-0.883940
+Vandenberg Air Force Base CO,3,-0.433241
+Vandenberg Air Force Base CO,4,-0.717008
+Vandenberg Air Force Base CO,5,-0.590795
+Vandenberg Air Force Base CO,6,-0.858807
+Vandenberg Air Force Base CO,7,-0.712773
+Vandenberg Air Force Base CO,8,-0.772444
+Vandenberg Air Force Base CO,9,-0.496432
+Vandenberg Air Force Base CO,10,-0.774778
+Vandenberg Air Force Base CO,11,-0.669742
+Vandenberg Air Force Base CO,12,-0.819503
+Cincinnati NO2,2,0.083251
+Cincinnati NO2,3,0.286958
+Cincinnati NO2,4,0.008641
+Cincinnati NO2,5,-0.295189
+Cincinnati NO2,6,-0.389232
+Cincinnati NO2,7,-0.072411
+Cincinnati NO2,8,-0.072411
+Cincinnati NO2,9,0.126797
+Cincinnati NO2,10,0.268289
+Cincinnati NO2,11,0.042400
+Cincinnati NO2,12,-0.025740
+Denver NO2,1,2.156143
+Denver NO2,2,1.497994
+Denver NO2,3,1.472409
+Denver NO2,4,1.004529
+Denver NO2,5,0.648391
+Denver NO2,6,0.676585
+Denver NO2,7,0.963691
+Denver NO2,8,1.140576
+Denver NO2,9,1.018461
+Denver NO2,10,1.418036
+Denver NO2,11,1.797595
+Denver NO2,12,1.994097
+Des Moines NO2,4,-0.897574
+Des Moines NO2,5,-0.607264
+Des Moines NO2,6,-0.611076
+Des Moines NO2,7,-0.738411
+Des Moines NO2,8,-0.548692
+Des Moines NO2,9,-0.585515
+Des Moines NO2,10,-0.572253
+Houston NO2,1,0.420554
+Houston NO2,2,0.572294
+Houston NO2,3,0.635592
+Houston NO2,4,-0.106501
+Houston NO2,5,-0.307635
+Houston NO2,6,-0.586842
+Houston NO2,7,-0.341646
+Houston NO2,8,-0.272398
+Houston NO2,9,-0.114579
+Houston NO2,10,0.521598
+Houston NO2,11,0.245556
+Houston NO2,12,0.404103
+Indianapolis NO2,1,-0.221643
+Indianapolis NO2,2,-0.079744
+Indianapolis NO2,3,0.126875
+Indianapolis NO2,4,0.058436
+Indianapolis NO2,5,-0.434114
+Indianapolis NO2,6,-0.394137
+Indianapolis NO2,7,-0.358273
+Indianapolis NO2,8,-0.182205
+Indianapolis NO2,9,-0.295912
+Indianapolis NO2,10,-0.112315
+Indianapolis NO2,11,-0.093550
+Indianapolis NO2,12,0.343819
+Long Beach NO2,1,2.002828
+Long Beach NO2,2,1.568268
+Long Beach NO2,3,0.572936
+Long Beach NO2,4,-0.013423
+Long Beach NO2,5,-0.144635
+Long Beach NO2,6,-0.340040
+Long Beach NO2,7,-0.221759
+Long Beach NO2,8,0.011130
+Long Beach NO2,9,0.635833
+Long Beach NO2,10,1.064627
+Long Beach NO2,11,1.696345
+Long Beach NO2,12,2.032568
+Vandenberg Air Force Base NO2,1,-1.495886
+Vandenberg Air Force Base NO2,2,-1.615231
+Vandenberg Air Force Base NO2,3,-1.603230
+Vandenberg Air Force Base NO2,4,-1.669658
+Vandenberg Air Force Base NO2,5,-1.663902
+Vandenberg Air Force Base NO2,6,-1.688949
+Vandenberg Air Force Base NO2,7,-1.684904
+Vandenberg Air Force Base NO2,8,-1.702882
+Vandenberg Air Force Base NO2,9,-1.655190
+Vandenberg Air Force Base NO2,10,-1.616609
+Vandenberg Air Force Base NO2,11,-1.549091
+Vandenberg Air Force Base NO2,12,-1.535556
+Cincinnati O3,2,-0.530201
+Cincinnati O3,3,0.090968
+Cincinnati O3,4,0.966206
+Cincinnati O3,5,0.933073
+Cincinnati O3,6,1.658321
+Cincinnati O3,7,0.839136
+Cincinnati O3,8,1.384230
+Cincinnati O3,9,0.807903
+Cincinnati O3,10,-1.095413
+Cincinnati O3,11,-1.448834
+Cincinnati O3,12,-1.565691
+Denver O3,1,-1.804392
+Denver O3,2,-1.134858
+Denver O3,3,-0.539631
+Denver O3,4,-0.108781
+Denver O3,5,0.633458
+Denver O3,6,1.249679
+Denver O3,7,2.007704
+Denver O3,8,1.622931
+Denver O3,9,0.319905
+Denver O3,10,-1.237922
+Denver O3,11,-1.741715
+Denver O3,12,-1.632399
+Des Moines O3,4,0.944347
+Des Moines O3,5,0.677033
+Des Moines O3,6,0.483934
+Des Moines O3,7,0.767882
+Des Moines O3,8,0.892577
+Des Moines O3,9,0.334835
+Des Moines O3,10,-1.058599
+Houston O3,1,-1.141729
+Houston O3,2,-0.397250
+Houston O3,3,0.582621
+Houston O3,4,0.255684
+Houston O3,5,-0.081824
+Houston O3,6,-0.491653
+Houston O3,7,-0.071135
+Houston O3,8,0.392016
+Houston O3,9,0.053203
+Houston O3,10,-0.436313
+Houston O3,11,-1.089891
+Houston O3,12,-1.884553
+Indianapolis O3,1,-1.546393
+Indianapolis O3,2,-0.793817
+Indianapolis O3,3,0.196068
+Indianapolis O3,4,0.656963
+Indianapolis O3,5,0.769663
+Indianapolis O3,6,1.385766
+Indianapolis O3,7,0.947799
+Indianapolis O3,8,1.569491
+Indianapolis O3,9,1.152120
+Indianapolis O3,10,-0.764082
+Indianapolis O3,11,-1.262983
+Indianapolis O3,12,-1.408338
+Long Beach O3,1,-1.923743
+Long Beach O3,2,-0.728582
+Long Beach O3,3,0.336794
+Long Beach O3,4,0.778451
+Long Beach O3,5,0.874763
+Long Beach O3,6,0.301702
+Long Beach O3,7,-0.325869
+Long Beach O3,8,0.176473
+Long Beach O3,9,0.450801
+Long Beach O3,10,-0.016462
+Long Beach O3,11,-1.106458
+Long Beach O3,12,-1.627180
+Vandenberg Air Force Base O3,1,0.539869
+Vandenberg Air Force Base O3,2,0.896521
+Vandenberg Air Force Base O3,3,0.814197
+Vandenberg Air Force Base O3,4,0.977250
+Vandenberg Air Force Base O3,5,0.693065
+Vandenberg Air Force Base O3,6,-0.635231
+Vandenberg Air Force Base O3,7,-0.511130
+Vandenberg Air Force Base O3,8,-1.001332
+Vandenberg Air Force Base O3,9,-0.042515
+Vandenberg Air Force Base O3,10,0.885214
+Vandenberg Air Force Base O3,11,0.417668
+Vandenberg Air Force Base O3,12,0.468615
+Cincinnati SO2,2,0.601973
+Cincinnati SO2,3,1.622800
+Cincinnati SO2,4,0.053189
+Cincinnati SO2,5,-0.087868
+Cincinnati SO2,6,1.237730
+Cincinnati SO2,7,1.806591
+Cincinnati SO2,8,2.236670
+Cincinnati SO2,9,0.537967
+Cincinnati SO2,10,0.859265
+Cincinnati SO2,11,0.598299
+Cincinnati SO2,12,1.651993
+Denver SO2,1,1.513841
+Denver SO2,2,0.577632
+Denver SO2,3,0.212091
+Denver SO2,4,-0.186013
+Denver SO2,5,0.490055
+Denver SO2,6,0.893159
+Denver SO2,7,0.317760
+Denver SO2,8,0.587485
+Denver SO2,9,0.537353
+Denver SO2,10,0.936976
+Denver SO2,11,1.071747
+Denver SO2,12,0.533381
+Des Moines SO2,4,-1.129440
+Des Moines SO2,5,-1.163669
+Des Moines SO2,6,-1.183611
+Des Moines SO2,7,-1.180116
+Des Moines SO2,8,-1.151746
+Des Moines SO2,9,-1.161518
+Des Moines SO2,10,-1.141549
+Houston SO2,1,-0.659786
+Houston SO2,2,-0.714052
+Houston SO2,3,-0.966515
+Houston SO2,4,-0.924015
+Houston SO2,5,-0.775323
+Houston SO2,6,-0.457081
+Houston SO2,7,-0.471472
+Houston SO2,8,-0.861668
+Houston SO2,9,-0.657620
+Houston SO2,10,-0.655880
+Houston SO2,11,-0.217241
+Houston SO2,12,0.071678
+Indianapolis SO2,1,2.454348
+Indianapolis SO2,2,1.436700
+Indianapolis SO2,3,-0.284803
+Indianapolis SO2,4,0.241619
+Indianapolis SO2,5,0.536500
+Indianapolis SO2,6,0.706333
+Indianapolis SO2,7,0.224426
+Indianapolis SO2,8,0.734066
+Indianapolis SO2,9,0.463615
+Indianapolis SO2,10,2.174995
+Indianapolis SO2,11,1.732836
+Indianapolis SO2,12,2.933390
+Long Beach SO2,1,-0.360663
+Long Beach SO2,2,-0.244949
+Long Beach SO2,3,-0.812328
+Long Beach SO2,4,-0.973937
+Long Beach SO2,5,-0.940201
+Long Beach SO2,6,-0.924015
+Long Beach SO2,7,-0.660197
+Long Beach SO2,8,-0.605718
+Long Beach SO2,9,-0.413107
+Long Beach SO2,10,-0.493849
+Long Beach SO2,11,-0.452408
+Long Beach SO2,12,-0.390282
+Vandenberg Air Force Base SO2,1,-0.715088
+Vandenberg Air Force Base SO2,2,-0.753884
+Vandenberg Air Force Base SO2,3,-0.774707
+Vandenberg Air Force Base SO2,4,-0.762564
+Vandenberg Air Force Base SO2,5,-0.757849
+Vandenberg Air Force Base SO2,6,-0.776584
+Vandenberg Air Force Base SO2,7,-0.784163
+Vandenberg Air Force Base SO2,8,-0.741509
+Vandenberg Air Force Base SO2,9,-0.859434
+Vandenberg Air Force Base SO2,10,-0.804626
+Vandenberg Air Force Base SO2,11,-0.789755
+Vandenberg Air Force Base SO2,12,-0.765661

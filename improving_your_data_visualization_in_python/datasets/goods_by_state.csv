@@ -1,0 +1,1422 @@
+state,good,prop_selling
+Alabama,Bakedgoods,0.760563
+Alabama,Beans,0.084507
+Alabama,Cheese,0.225352
+Alabama,Coffee,0.197183
+Alabama,Crafts,0.422535
+Alabama,Eggs,0.591549
+Alabama,Flowers,0.436620
+Alabama,Fruits,0.760563
+Alabama,Grains,0.098592
+Alabama,Herbs,0.619718
+Alabama,Honey,0.859155
+Alabama,Jams,0.859155
+Alabama,Juices,0.112676
+Alabama,Maple,0.014085
+Alabama,Meat,0.253521
+Alabama,Mushrooms,0.056338
+Alabama,Nursery,0.070423
+Alabama,Nuts,0.267606
+Alabama,PetFood,0.112676
+Alabama,Plants,0.591549
+Alabama,Poultry,0.197183
+Alabama,Prepared,0.408451
+Alabama,Seafood,0.056338
+Alabama,Soap,0.535211
+Alabama,Tofu,0.014085
+Alabama,Trees,0.295775
+Alabama,Vegetables,0.957746
+Alabama,WildHarvested,0.098592
+Alabama,Wine,0.000000
+Arizona,Bakedgoods,0.803030
+Arizona,Beans,0.530303
+Arizona,Cheese,0.484848
+Arizona,Coffee,0.696970
+Arizona,Crafts,0.636364
+Arizona,Eggs,0.757576
+Arizona,Flowers,0.454545
+Arizona,Fruits,0.909091
+Arizona,Grains,0.378788
+Arizona,Herbs,0.787879
+Arizona,Honey,0.787879
+Arizona,Jams,0.818182
+Arizona,Juices,0.484848
+Arizona,Maple,0.181818
+Arizona,Meat,0.484848
+Arizona,Mushrooms,0.272727
+Arizona,Nursery,0.000000
+Arizona,Nuts,0.530303
+Arizona,PetFood,0.439394
+Arizona,Plants,0.666667
+Arizona,Poultry,0.409091
+Arizona,Prepared,0.772727
+Arizona,Seafood,0.318182
+Arizona,Soap,0.787879
+Arizona,Tofu,0.075758
+Arizona,Trees,0.363636
+Arizona,Vegetables,0.909091
+Arizona,WildHarvested,0.227273
+Arizona,Wine,0.090909
+Arkansas,Bakedgoods,0.915254
+Arkansas,Beans,0.135593
+Arkansas,Cheese,0.203390
+Arkansas,Coffee,0.389831
+Arkansas,Crafts,0.830508
+Arkansas,Eggs,0.864407
+Arkansas,Flowers,0.745763
+Arkansas,Fruits,0.864407
+Arkansas,Grains,0.152542
+Arkansas,Herbs,0.694915
+Arkansas,Honey,0.847458
+Arkansas,Jams,0.898305
+Arkansas,Juices,0.118644
+Arkansas,Maple,0.101695
+Arkansas,Meat,0.508475
+Arkansas,Mushrooms,0.169492
+Arkansas,Nursery,0.016949
+Arkansas,Nuts,0.237288
+Arkansas,PetFood,0.254237
+Arkansas,Plants,0.677966
+Arkansas,Poultry,0.355932
+Arkansas,Prepared,0.423729
+Arkansas,Seafood,0.050847
+Arkansas,Soap,0.745763
+Arkansas,Tofu,0.000000
+Arkansas,Trees,0.271186
+Arkansas,Vegetables,0.949153
+Arkansas,WildHarvested,0.152542
+Arkansas,Wine,0.033898
+California,Bakedgoods,0.868778
+California,Beans,0.192308
+California,Cheese,0.538462
+California,Coffee,0.364253
+California,Crafts,0.475113
+California,Eggs,0.726244
+California,Flowers,0.787330
+California,Fruits,0.823529
+California,Grains,0.142534
+California,Herbs,0.787330
+California,Honey,0.839367
+California,Jams,0.699095
+California,Juices,0.411765
+California,Maple,0.047511
+California,Meat,0.445701
+California,Mushrooms,0.296380
+California,Nursery,0.065611
+California,Nuts,0.717195
+California,PetFood,0.099548
+California,Plants,0.549774
+California,Poultry,0.404977
+California,Prepared,0.807692
+California,Seafood,0.438914
+California,Soap,0.592760
+California,Tofu,0.090498
+California,Trees,0.386878
+California,Vegetables,0.963801
+California,WildHarvested,0.076923
+California,Wine,0.153846
+Colorado,Bakedgoods,0.918367
+Colorado,Beans,0.214286
+Colorado,Cheese,0.530612
+Colorado,Coffee,0.551020
+Colorado,Crafts,0.775510
+Colorado,Eggs,0.765306
+Colorado,Flowers,0.653061
+Colorado,Fruits,0.806122
+Colorado,Grains,0.214286
+Colorado,Herbs,0.765306
+Colorado,Honey,0.887755
+Colorado,Jams,0.887755
+Colorado,Juices,0.387755
+Colorado,Maple,0.173469
+Colorado,Meat,0.714286
+Colorado,Mushrooms,0.275510
+Colorado,Nursery,0.071429
+Colorado,Nuts,0.255102
+Colorado,PetFood,0.275510
+Colorado,Plants,0.663265
+Colorado,Poultry,0.428571
+Colorado,Prepared,0.816327
+Colorado,Seafood,0.306122
+Colorado,Soap,0.887755
+Colorado,Tofu,0.051020
+Colorado,Trees,0.142857
+Colorado,Vegetables,0.959184
+Colorado,WildHarvested,0.173469
+Colorado,Wine,0.306122
+Connecticut,Bakedgoods,0.962963
+Connecticut,Beans,0.148148
+Connecticut,Cheese,0.796296
+Connecticut,Coffee,0.500000
+Connecticut,Crafts,0.611111
+Connecticut,Eggs,0.833333
+Connecticut,Flowers,0.851852
+Connecticut,Fruits,0.870370
+Connecticut,Grains,0.111111
+Connecticut,Herbs,0.796296
+Connecticut,Honey,0.907407
+Connecticut,Jams,0.907407
+Connecticut,Juices,0.203704
+Connecticut,Maple,0.814815
+Connecticut,Meat,0.722222
+Connecticut,Mushrooms,0.370370
+Connecticut,Nursery,0.037037
+Connecticut,Nuts,0.092593
+Connecticut,PetFood,0.240741
+Connecticut,Plants,0.592593
+Connecticut,Poultry,0.574074
+Connecticut,Prepared,0.814815
+Connecticut,Seafood,0.277778
+Connecticut,Soap,0.888889
+Connecticut,Tofu,0.000000
+Connecticut,Trees,0.222222
+Connecticut,Vegetables,0.981481
+Connecticut,WildHarvested,0.037037
+Connecticut,Wine,0.111111
+Delaware,Bakedgoods,0.678571
+Delaware,Beans,0.000000
+Delaware,Cheese,0.464286
+Delaware,Coffee,0.321429
+Delaware,Crafts,0.285714
+Delaware,Eggs,0.750000
+Delaware,Flowers,0.714286
+Delaware,Fruits,0.785714
+Delaware,Grains,0.107143
+Delaware,Herbs,0.678571
+Delaware,Honey,0.714286
+Delaware,Jams,0.714286
+Delaware,Juices,0.214286
+Delaware,Maple,0.142857
+Delaware,Meat,0.678571
+Delaware,Mushrooms,0.357143
+Delaware,Nursery,0.071429
+Delaware,Nuts,0.142857
+Delaware,PetFood,0.142857
+Delaware,Plants,0.535714
+Delaware,Poultry,0.571429
+Delaware,Prepared,0.607143
+Delaware,Seafood,0.178571
+Delaware,Soap,0.571429
+Delaware,Tofu,0.000000
+Delaware,Trees,0.214286
+Delaware,Vegetables,0.857143
+Delaware,WildHarvested,0.071429
+Delaware,Wine,0.071429
+District of Columbia,Bakedgoods,0.886364
+District of Columbia,Beans,0.363636
+District of Columbia,Cheese,0.590909
+District of Columbia,Coffee,0.409091
+District of Columbia,Crafts,0.204545
+District of Columbia,Eggs,0.863636
+District of Columbia,Flowers,0.727273
+District of Columbia,Fruits,0.909091
+District of Columbia,Grains,0.068182
+District of Columbia,Herbs,0.886364
+District of Columbia,Honey,0.613636
+District of Columbia,Jams,0.454545
+District of Columbia,Juices,0.409091
+District of Columbia,Maple,0.090909
+District of Columbia,Meat,0.727273
+District of Columbia,Mushrooms,0.477273
+District of Columbia,Nursery,0.000000
+District of Columbia,Nuts,0.181818
+District of Columbia,PetFood,0.113636
+District of Columbia,Plants,0.318182
+District of Columbia,Poultry,0.681818
+District of Columbia,Prepared,0.431818
+District of Columbia,Seafood,0.409091
+District of Columbia,Soap,0.113636
+District of Columbia,Tofu,0.045455
+District of Columbia,Trees,0.045455
+District of Columbia,Vegetables,0.954545
+District of Columbia,WildHarvested,0.068182
+District of Columbia,Wine,0.068182
+Florida,Bakedgoods,0.923077
+Florida,Beans,0.198718
+Florida,Cheese,0.653846
+Florida,Coffee,0.467949
+Florida,Crafts,0.737179
+Florida,Eggs,0.756410
+Florida,Flowers,0.621795
+Florida,Fruits,0.807692
+Florida,Grains,0.250000
+Florida,Herbs,0.878205
+Florida,Honey,0.929487
+Florida,Jams,0.916667
+Florida,Juices,0.423077
+Florida,Maple,0.358974
+Florida,Meat,0.493590
+Florida,Mushrooms,0.326923
+Florida,Nursery,0.083333
+Florida,Nuts,0.538462
+Florida,PetFood,0.410256
+Florida,Plants,0.794872
+Florida,Poultry,0.429487
+Florida,Prepared,0.807692
+Florida,Seafood,0.570513
+Florida,Soap,0.814103
+Florida,Tofu,0.102564
+Florida,Trees,0.666667
+Florida,Vegetables,0.967949
+Florida,WildHarvested,0.237179
+Florida,Wine,0.051282
+Georgia,Bakedgoods,0.927419
+Georgia,Beans,0.120968
+Georgia,Cheese,0.588710
+Georgia,Coffee,0.379032
+Georgia,Crafts,0.637097
+Georgia,Eggs,0.790323
+Georgia,Flowers,0.677419
+Georgia,Fruits,0.822581
+Georgia,Grains,0.225806
+Georgia,Herbs,0.798387
+Georgia,Honey,0.919355
+Georgia,Jams,0.903226
+Georgia,Juices,0.298387
+Georgia,Maple,0.153226
+Georgia,Meat,0.572581
+Georgia,Mushrooms,0.306452
+Georgia,Nursery,0.032258
+Georgia,Nuts,0.435484
+Georgia,PetFood,0.258065
+Georgia,Plants,0.612903
+Georgia,Poultry,0.419355
+Georgia,Prepared,0.548387
+Georgia,Seafood,0.258065
+Georgia,Soap,0.806452
+Georgia,Tofu,0.056452
+Georgia,Trees,0.370968
+Georgia,Vegetables,0.927419
+Georgia,WildHarvested,0.217742
+Georgia,Wine,0.032258
+Idaho,Bakedgoods,0.918919
+Idaho,Beans,0.054054
+Idaho,Cheese,0.513514
+Idaho,Coffee,0.243243
+Idaho,Crafts,0.864865
+Idaho,Eggs,0.675676
+Idaho,Flowers,0.756757
+Idaho,Fruits,0.621622
+Idaho,Grains,0.189189
+Idaho,Herbs,0.918919
+Idaho,Honey,0.864865
+Idaho,Jams,0.891892
+Idaho,Juices,0.135135
+Idaho,Maple,0.135135
+Idaho,Meat,0.513514
+Idaho,Mushrooms,0.108108
+Idaho,Nursery,0.108108
+Idaho,Nuts,0.270270
+Idaho,PetFood,0.081081
+Idaho,Plants,0.810811
+Idaho,Poultry,0.243243
+Idaho,Prepared,0.864865
+Idaho,Seafood,0.108108
+Idaho,Soap,0.891892
+Idaho,Tofu,0.000000
+Idaho,Trees,0.324324
+Idaho,Vegetables,0.972973
+Idaho,WildHarvested,0.135135
+Idaho,Wine,0.243243
+Illinois,Bakedgoods,0.926702
+Illinois,Beans,0.167539
+Illinois,Cheese,0.528796
+Illinois,Coffee,0.408377
+Illinois,Crafts,0.596859
+Illinois,Eggs,0.633508
+Illinois,Flowers,0.722513
+Illinois,Fruits,0.821990
+Illinois,Grains,0.188482
+Illinois,Herbs,0.801047
+Illinois,Honey,0.780105
+Illinois,Jams,0.769634
+Illinois,Juices,0.225131
+Illinois,Maple,0.282723
+Illinois,Meat,0.581152
+Illinois,Mushrooms,0.293194
+Illinois,Nursery,0.047120
+Illinois,Nuts,0.277487
+Illinois,PetFood,0.324607
+Illinois,Plants,0.717277
+Illinois,Poultry,0.492147
+Illinois,Prepared,0.633508
+Illinois,Seafood,0.214660
+Illinois,Soap,0.696335
+Illinois,Tofu,0.099476
+Illinois,Trees,0.261780
+Illinois,Vegetables,0.958115
+Illinois,WildHarvested,0.136126
+Illinois,Wine,0.068063
+Indiana,Bakedgoods,0.979167
+Indiana,Beans,0.125000
+Indiana,Cheese,0.527778
+Indiana,Coffee,0.444444
+Indiana,Crafts,0.805556
+Indiana,Eggs,0.756944
+Indiana,Flowers,0.770833
+Indiana,Fruits,0.854167
+Indiana,Grains,0.187500
+Indiana,Herbs,0.770833
+Indiana,Honey,0.895833
+Indiana,Jams,0.861111
+Indiana,Juices,0.194444
+Indiana,Maple,0.541667
+Indiana,Meat,0.645833
+Indiana,Mushrooms,0.222222
+Indiana,Nursery,0.034722
+Indiana,Nuts,0.243056
+Indiana,PetFood,0.298611
+Indiana,Plants,0.888889
+Indiana,Poultry,0.437500
+Indiana,Prepared,0.631944
+Indiana,Seafood,0.104167
+Indiana,Soap,0.833333
+Indiana,Tofu,0.006944
+Indiana,Trees,0.256944
+Indiana,Vegetables,0.986111
+Indiana,WildHarvested,0.173611
+Indiana,Wine,0.083333
+Iowa,Bakedgoods,0.980198
+Iowa,Beans,0.069307
+Iowa,Cheese,0.227723
+Iowa,Coffee,0.247525
+Iowa,Crafts,0.841584
+Iowa,Eggs,0.821782
+Iowa,Flowers,0.732673
+Iowa,Fruits,0.782178
+Iowa,Grains,0.099010
+Iowa,Herbs,0.811881
+Iowa,Honey,0.831683
+Iowa,Jams,0.920792
+Iowa,Juices,0.148515
+Iowa,Maple,0.188119
+Iowa,Meat,0.475248
+Iowa,Mushrooms,0.118812
+Iowa,Nursery,0.069307
+Iowa,Nuts,0.376238
+Iowa,PetFood,0.188119
+Iowa,Plants,0.811881
+Iowa,Poultry,0.306931
+Iowa,Prepared,0.534653
+Iowa,Seafood,0.059406
+Iowa,Soap,0.653465
+Iowa,Tofu,0.009901
+Iowa,Trees,0.158416
+Iowa,Vegetables,0.980198
+Iowa,WildHarvested,0.108911
+Iowa,Wine,0.207921
+Kansas,Bakedgoods,0.948052
+Kansas,Beans,0.064935
+Kansas,Cheese,0.155844
+Kansas,Coffee,0.220779
+Kansas,Crafts,0.688312
+Kansas,Eggs,0.792208
+Kansas,Flowers,0.623377
+Kansas,Fruits,0.766234
+Kansas,Grains,0.181818
+Kansas,Herbs,0.714286
+Kansas,Honey,0.818182
+Kansas,Jams,0.896104
+Kansas,Juices,0.155844
+Kansas,Maple,0.077922
+Kansas,Meat,0.493506
+Kansas,Mushrooms,0.129870
+Kansas,Nursery,0.012987
+Kansas,Nuts,0.311688
+Kansas,PetFood,0.155844
+Kansas,Plants,0.623377
+Kansas,Poultry,0.298701
+Kansas,Prepared,0.493506
+Kansas,Seafood,0.000000
+Kansas,Soap,0.584416
+Kansas,Tofu,0.000000
+Kansas,Trees,0.168831
+Kansas,Vegetables,0.948052
+Kansas,WildHarvested,0.103896
+Kansas,Wine,0.077922
+Kentucky,Bakedgoods,0.863158
+Kentucky,Beans,0.178947
+Kentucky,Cheese,0.315789
+Kentucky,Coffee,0.189474
+Kentucky,Crafts,0.663158
+Kentucky,Eggs,0.800000
+Kentucky,Flowers,0.663158
+Kentucky,Fruits,0.863158
+Kentucky,Grains,0.115789
+Kentucky,Herbs,0.789474
+Kentucky,Honey,0.894737
+Kentucky,Jams,0.842105
+Kentucky,Juices,0.147368
+Kentucky,Maple,0.294737
+Kentucky,Meat,0.568421
+Kentucky,Mushrooms,0.168421
+Kentucky,Nursery,0.084211
+Kentucky,Nuts,0.210526
+Kentucky,PetFood,0.147368
+Kentucky,Plants,0.757895
+Kentucky,Poultry,0.421053
+Kentucky,Prepared,0.368421
+Kentucky,Seafood,0.105263
+Kentucky,Soap,0.715789
+Kentucky,Tofu,0.000000
+Kentucky,Trees,0.294737
+Kentucky,Vegetables,0.968421
+Kentucky,WildHarvested,0.084211
+Kentucky,Wine,0.157895
+Louisiana,Bakedgoods,0.842105
+Louisiana,Beans,0.157895
+Louisiana,Cheese,0.421053
+Louisiana,Coffee,0.298246
+Louisiana,Crafts,0.578947
+Louisiana,Eggs,0.736842
+Louisiana,Flowers,0.473684
+Louisiana,Fruits,0.789474
+Louisiana,Grains,0.192982
+Louisiana,Herbs,0.719298
+Louisiana,Honey,0.842105
+Louisiana,Jams,0.894737
+Louisiana,Juices,0.228070
+Louisiana,Maple,0.035088
+Louisiana,Meat,0.333333
+Louisiana,Mushrooms,0.157895
+Louisiana,Nursery,0.087719
+Louisiana,Nuts,0.350877
+Louisiana,PetFood,0.157895
+Louisiana,Plants,0.666667
+Louisiana,Poultry,0.315789
+Louisiana,Prepared,0.649123
+Louisiana,Seafood,0.438596
+Louisiana,Soap,0.684211
+Louisiana,Tofu,0.070175
+Louisiana,Trees,0.403509
+Louisiana,Vegetables,1.000000
+Louisiana,WildHarvested,0.245614
+Louisiana,Wine,0.175439
+Maine,Bakedgoods,0.878788
+Maine,Beans,0.287879
+Maine,Cheese,0.787879
+Maine,Coffee,0.287879
+Maine,Crafts,0.681818
+Maine,Eggs,0.833333
+Maine,Flowers,0.818182
+Maine,Fruits,0.787879
+Maine,Grains,0.166667
+Maine,Herbs,0.939394
+Maine,Honey,0.681818
+Maine,Jams,0.848485
+Maine,Juices,0.242424
+Maine,Maple,0.787879
+Maine,Meat,0.863636
+Maine,Mushrooms,0.272727
+Maine,Nursery,0.060606
+Maine,Nuts,0.030303
+Maine,PetFood,0.106061
+Maine,Plants,0.742424
+Maine,Poultry,0.575758
+Maine,Prepared,0.575758
+Maine,Seafood,0.318182
+Maine,Soap,0.757576
+Maine,Tofu,0.030303
+Maine,Trees,0.212121
+Maine,Vegetables,0.924242
+Maine,WildHarvested,0.257576
+Maine,Wine,0.181818
+Maryland,Bakedgoods,0.965217
+Maryland,Beans,0.069565
+Maryland,Cheese,0.469565
+Maryland,Coffee,0.347826
+Maryland,Crafts,0.565217
+Maryland,Eggs,0.878261
+Maryland,Flowers,0.713043
+Maryland,Fruits,0.773913
+Maryland,Grains,0.052174
+Maryland,Herbs,0.826087
+Maryland,Honey,0.800000
+Maryland,Jams,0.834783
+Maryland,Juices,0.252174
+Maryland,Maple,0.165217
+Maryland,Meat,0.617391
+Maryland,Mushrooms,0.226087
+Maryland,Nursery,0.147826
+Maryland,Nuts,0.243478
+Maryland,PetFood,0.165217
+Maryland,Plants,0.765217
+Maryland,Poultry,0.591304
+Maryland,Prepared,0.626087
+Maryland,Seafood,0.243478
+Maryland,Soap,0.721739
+Maryland,Tofu,0.043478
+Maryland,Trees,0.200000
+Maryland,Vegetables,0.973913
+Maryland,WildHarvested,0.113043
+Maryland,Wine,0.330435
+Massachusetts,Bakedgoods,0.883333
+Massachusetts,Beans,0.075000
+Massachusetts,Cheese,0.583333
+Massachusetts,Coffee,0.416667
+Massachusetts,Crafts,0.554167
+Massachusetts,Eggs,0.829167
+Massachusetts,Flowers,0.620833
+Massachusetts,Fruits,0.820833
+Massachusetts,Grains,0.083333
+Massachusetts,Herbs,0.729167
+Massachusetts,Honey,0.820833
+Massachusetts,Jams,0.775000
+Massachusetts,Juices,0.283333
+Massachusetts,Maple,0.650000
+Massachusetts,Meat,0.650000
+Massachusetts,Mushrooms,0.220833
+Massachusetts,Nursery,0.075000
+Massachusetts,Nuts,0.137500
+Massachusetts,PetFood,0.225000
+Massachusetts,Plants,0.529167
+Massachusetts,Poultry,0.579167
+Massachusetts,Prepared,0.645833
+Massachusetts,Seafood,0.404167
+Massachusetts,Soap,0.654167
+Massachusetts,Tofu,0.050000
+Massachusetts,Trees,0.100000
+Massachusetts,Vegetables,0.958333
+Massachusetts,WildHarvested,0.120833
+Massachusetts,Wine,0.287500
+Michigan,Bakedgoods,0.920168
+Michigan,Beans,0.189076
+Michigan,Cheese,0.457983
+Michigan,Coffee,0.348739
+Michigan,Crafts,0.689076
+Michigan,Eggs,0.764706
+Michigan,Flowers,0.773109
+Michigan,Fruits,0.848739
+Michigan,Grains,0.134454
+Michigan,Herbs,0.819328
+Michigan,Honey,0.852941
+Michigan,Jams,0.844538
+Michigan,Juices,0.180672
+Michigan,Maple,0.726891
+Michigan,Meat,0.445378
+Michigan,Mushrooms,0.252101
+Michigan,Nursery,0.037815
+Michigan,Nuts,0.205882
+Michigan,PetFood,0.189076
+Michigan,Plants,0.756303
+Michigan,Poultry,0.420168
+Michigan,Prepared,0.613445
+Michigan,Seafood,0.201681
+Michigan,Soap,0.739496
+Michigan,Tofu,0.046218
+Michigan,Trees,0.306723
+Michigan,Vegetables,0.924370
+Michigan,WildHarvested,0.184874
+Michigan,Wine,0.147059
+Minnesota,Bakedgoods,0.818898
+Minnesota,Beans,0.094488
+Minnesota,Cheese,0.283465
+Minnesota,Coffee,0.275591
+Minnesota,Crafts,0.653543
+Minnesota,Eggs,0.700787
+Minnesota,Flowers,0.692913
+Minnesota,Fruits,0.708661
+Minnesota,Grains,0.165354
+Minnesota,Herbs,0.755906
+Minnesota,Honey,0.708661
+Minnesota,Jams,0.850394
+Minnesota,Juices,0.125984
+Minnesota,Maple,0.559055
+Minnesota,Meat,0.401575
+Minnesota,Mushrooms,0.149606
+Minnesota,Nursery,0.047244
+Minnesota,Nuts,0.110236
+Minnesota,PetFood,0.078740
+Minnesota,Plants,0.645669
+Minnesota,Poultry,0.448819
+Minnesota,Prepared,0.503937
+Minnesota,Seafood,0.157480
+Minnesota,Soap,0.606299
+Minnesota,Tofu,0.015748
+Minnesota,Trees,0.196850
+Minnesota,Vegetables,0.937008
+Minnesota,WildHarvested,0.125984
+Minnesota,Wine,0.007874
+Mississippi,Bakedgoods,0.866667
+Mississippi,Beans,0.044444
+Mississippi,Cheese,0.533333
+Mississippi,Coffee,0.311111
+Mississippi,Crafts,0.577778
+Mississippi,Eggs,0.666667
+Mississippi,Flowers,0.755556
+Mississippi,Fruits,0.777778
+Mississippi,Grains,0.111111
+Mississippi,Herbs,0.822222
+Mississippi,Honey,0.822222
+Mississippi,Jams,0.911111
+Mississippi,Juices,0.111111
+Mississippi,Maple,0.022222
+Mississippi,Meat,0.288889
+Mississippi,Mushrooms,0.133333
+Mississippi,Nursery,0.066667
+Mississippi,Nuts,0.466667
+Mississippi,PetFood,0.133333
+Mississippi,Plants,0.755556
+Mississippi,Poultry,0.111111
+Mississippi,Prepared,0.511111
+Mississippi,Seafood,0.111111
+Mississippi,Soap,0.688889
+Mississippi,Tofu,0.000000
+Mississippi,Trees,0.377778
+Mississippi,Vegetables,1.000000
+Mississippi,WildHarvested,0.133333
+Mississippi,Wine,0.000000
+Missouri,Bakedgoods,0.897590
+Missouri,Beans,0.072289
+Missouri,Cheese,0.210843
+Missouri,Coffee,0.198795
+Missouri,Crafts,0.753012
+Missouri,Eggs,0.795181
+Missouri,Flowers,0.656627
+Missouri,Fruits,0.777108
+Missouri,Grains,0.090361
+Missouri,Herbs,0.777108
+Missouri,Honey,0.783133
+Missouri,Jams,0.843373
+Missouri,Juices,0.048193
+Missouri,Maple,0.090361
+Missouri,Meat,0.469880
+Missouri,Mushrooms,0.102410
+Missouri,Nursery,0.126506
+Missouri,Nuts,0.216867
+Missouri,PetFood,0.108434
+Missouri,Plants,0.777108
+Missouri,Poultry,0.313253
+Missouri,Prepared,0.530120
+Missouri,Seafood,0.036145
+Missouri,Soap,0.734940
+Missouri,Tofu,0.006024
+Missouri,Trees,0.210843
+Missouri,Vegetables,0.945783
+Missouri,WildHarvested,0.108434
+Missouri,Wine,0.048193
+Montana,Bakedgoods,0.961538
+Montana,Beans,0.076923
+Montana,Cheese,0.269231
+Montana,Coffee,0.346154
+Montana,Crafts,0.865385
+Montana,Eggs,0.826923
+Montana,Flowers,0.673077
+Montana,Fruits,0.730769
+Montana,Grains,0.153846
+Montana,Herbs,0.750000
+Montana,Honey,0.653846
+Montana,Jams,0.865385
+Montana,Juices,0.173077
+Montana,Maple,0.076923
+Montana,Meat,0.365385
+Montana,Mushrooms,0.057692
+Montana,Nursery,0.192308
+Montana,Nuts,0.134615
+Montana,PetFood,0.230769
+Montana,Plants,0.711538
+Montana,Poultry,0.269231
+Montana,Prepared,0.576923
+Montana,Seafood,0.096154
+Montana,Soap,0.750000
+Montana,Tofu,0.000000
+Montana,Trees,0.307692
+Montana,Vegetables,0.961538
+Montana,WildHarvested,0.134615
+Montana,Wine,0.115385
+Nebraska,Bakedgoods,0.927273
+Nebraska,Beans,0.072727
+Nebraska,Cheese,0.218182
+Nebraska,Coffee,0.218182
+Nebraska,Crafts,0.709091
+Nebraska,Eggs,0.745455
+Nebraska,Flowers,0.545455
+Nebraska,Fruits,0.800000
+Nebraska,Grains,0.054545
+Nebraska,Herbs,0.763636
+Nebraska,Honey,0.690909
+Nebraska,Jams,0.818182
+Nebraska,Juices,0.054545
+Nebraska,Maple,0.145455
+Nebraska,Meat,0.363636
+Nebraska,Mushrooms,0.072727
+Nebraska,Nursery,0.018182
+Nebraska,Nuts,0.254545
+Nebraska,PetFood,0.163636
+Nebraska,Plants,0.490909
+Nebraska,Poultry,0.345455
+Nebraska,Prepared,0.454545
+Nebraska,Seafood,0.054545
+Nebraska,Soap,0.490909
+Nebraska,Tofu,0.000000
+Nebraska,Trees,0.163636
+Nebraska,Vegetables,1.000000
+Nebraska,WildHarvested,0.054545
+Nebraska,Wine,0.072727
+Nevada,Bakedgoods,0.961538
+Nevada,Beans,0.153846
+Nevada,Cheese,0.307692
+Nevada,Coffee,0.576923
+Nevada,Crafts,0.769231
+Nevada,Eggs,0.692308
+Nevada,Flowers,0.346154
+Nevada,Fruits,0.846154
+Nevada,Grains,0.153846
+Nevada,Herbs,0.846154
+Nevada,Honey,0.961538
+Nevada,Jams,0.846154
+Nevada,Juices,0.384615
+Nevada,Maple,0.153846
+Nevada,Meat,0.384615
+Nevada,Mushrooms,0.115385
+Nevada,Nursery,0.038462
+Nevada,Nuts,0.538462
+Nevada,PetFood,0.384615
+Nevada,Plants,0.346154
+Nevada,Poultry,0.000000
+Nevada,Prepared,0.730769
+Nevada,Seafood,0.230769
+Nevada,Soap,0.769231
+Nevada,Tofu,0.115385
+Nevada,Trees,0.153846
+Nevada,Vegetables,1.000000
+Nevada,WildHarvested,0.153846
+Nevada,Wine,0.038462
+New Hampshire,Bakedgoods,0.971014
+New Hampshire,Beans,0.318841
+New Hampshire,Cheese,0.739130
+New Hampshire,Coffee,0.347826
+New Hampshire,Crafts,0.782609
+New Hampshire,Eggs,0.913043
+New Hampshire,Flowers,0.768116
+New Hampshire,Fruits,0.724638
+New Hampshire,Grains,0.115942
+New Hampshire,Herbs,0.855072
+New Hampshire,Honey,0.811594
+New Hampshire,Jams,0.913043
+New Hampshire,Juices,0.202899
+New Hampshire,Maple,0.884058
+New Hampshire,Meat,0.855072
+New Hampshire,Mushrooms,0.231884
+New Hampshire,Nursery,0.072464
+New Hampshire,Nuts,0.101449
+New Hampshire,PetFood,0.217391
+New Hampshire,Plants,0.637681
+New Hampshire,Poultry,0.710145
+New Hampshire,Prepared,0.826087
+New Hampshire,Seafood,0.347826
+New Hampshire,Soap,0.855072
+New Hampshire,Tofu,0.000000
+New Hampshire,Trees,0.159420
+New Hampshire,Vegetables,0.971014
+New Hampshire,WildHarvested,0.159420
+New Hampshire,Wine,0.434783
+New Jersey,Bakedgoods,0.855769
+New Jersey,Beans,0.048077
+New Jersey,Cheese,0.644231
+New Jersey,Coffee,0.403846
+New Jersey,Crafts,0.509615
+New Jersey,Eggs,0.653846
+New Jersey,Flowers,0.778846
+New Jersey,Fruits,0.682692
+New Jersey,Grains,0.125000
+New Jersey,Herbs,0.759615
+New Jersey,Honey,0.855769
+New Jersey,Jams,0.807692
+New Jersey,Juices,0.365385
+New Jersey,Maple,0.201923
+New Jersey,Meat,0.509615
+New Jersey,Mushrooms,0.211538
+New Jersey,Nursery,0.086538
+New Jersey,Nuts,0.451923
+New Jersey,PetFood,0.192308
+New Jersey,Plants,0.519231
+New Jersey,Poultry,0.394231
+New Jersey,Prepared,0.769231
+New Jersey,Seafood,0.317308
+New Jersey,Soap,0.663462
+New Jersey,Tofu,0.038462
+New Jersey,Trees,0.153846
+New Jersey,Vegetables,0.971154
+New Jersey,WildHarvested,0.134615
+New Jersey,Wine,0.240385
+New Mexico,Bakedgoods,0.482143
+New Mexico,Beans,0.178571
+New Mexico,Cheese,0.214286
+New Mexico,Coffee,0.125000
+New Mexico,Crafts,0.446429
+New Mexico,Eggs,0.553571
+New Mexico,Flowers,0.357143
+New Mexico,Fruits,0.696429
+New Mexico,Grains,0.142857
+New Mexico,Herbs,0.464286
+New Mexico,Honey,0.517857
+New Mexico,Jams,0.392857
+New Mexico,Juices,0.125000
+New Mexico,Maple,0.000000
+New Mexico,Meat,0.250000
+New Mexico,Mushrooms,0.053571
+New Mexico,Nursery,0.035714
+New Mexico,Nuts,0.285714
+New Mexico,PetFood,0.089286
+New Mexico,Plants,0.232143
+New Mexico,Poultry,0.125000
+New Mexico,Prepared,0.267857
+New Mexico,Seafood,0.035714
+New Mexico,Soap,0.375000
+New Mexico,Tofu,0.017857
+New Mexico,Trees,0.178571
+New Mexico,Vegetables,0.785714
+New Mexico,WildHarvested,0.089286
+New Mexico,Wine,0.017857
+New York,Bakedgoods,0.806667
+New York,Beans,0.062222
+New York,Cheese,0.553333
+New York,Coffee,0.253333
+New York,Crafts,0.437778
+New York,Eggs,0.688889
+New York,Flowers,0.575556
+New York,Fruits,0.764444
+New York,Grains,0.084444
+New York,Herbs,0.657778
+New York,Honey,0.704444
+New York,Jams,0.695556
+New York,Juices,0.186667
+New York,Maple,0.564444
+New York,Meat,0.542222
+New York,Mushrooms,0.213333
+New York,Nursery,0.060000
+New York,Nuts,0.155556
+New York,PetFood,0.120000
+New York,Plants,0.562222
+New York,Poultry,0.491111
+New York,Prepared,0.460000
+New York,Seafood,0.186667
+New York,Soap,0.500000
+New York,Tofu,0.040000
+New York,Trees,0.151111
+New York,Vegetables,0.946667
+New York,WildHarvested,0.106667
+New York,Wine,0.377778
+North Carolina,Bakedgoods,0.871166
+North Carolina,Beans,0.153374
+North Carolina,Cheese,0.521472
+North Carolina,Coffee,0.306748
+North Carolina,Crafts,0.754601
+North Carolina,Eggs,0.846626
+North Carolina,Flowers,0.803681
+North Carolina,Fruits,0.865031
+North Carolina,Grains,0.177914
+North Carolina,Herbs,0.815951
+North Carolina,Honey,0.865031
+North Carolina,Jams,0.828221
+North Carolina,Juices,0.202454
+North Carolina,Maple,0.092025
+North Carolina,Meat,0.656442
+North Carolina,Mushrooms,0.355828
+North Carolina,Nursery,0.024540
+North Carolina,Nuts,0.337423
+North Carolina,PetFood,0.177914
+North Carolina,Plants,0.803681
+North Carolina,Poultry,0.588957
+North Carolina,Prepared,0.521472
+North Carolina,Seafood,0.331288
+North Carolina,Soap,0.717791
+North Carolina,Tofu,0.012270
+North Carolina,Trees,0.466258
+North Carolina,Vegetables,0.975460
+North Carolina,WildHarvested,0.159509
+North Carolina,Wine,0.208589
+North Dakota,Bakedgoods,1.000000
+North Dakota,Beans,0.062500
+North Dakota,Cheese,0.062500
+North Dakota,Coffee,0.062500
+North Dakota,Crafts,0.750000
+North Dakota,Eggs,0.250000
+North Dakota,Flowers,0.687500
+North Dakota,Fruits,0.562500
+North Dakota,Grains,0.125000
+North Dakota,Herbs,0.625000
+North Dakota,Honey,0.500000
+North Dakota,Jams,0.875000
+North Dakota,Juices,0.000000
+North Dakota,Maple,0.062500
+North Dakota,Meat,0.187500
+North Dakota,Mushrooms,0.000000
+North Dakota,Nursery,0.000000
+North Dakota,Nuts,0.000000
+North Dakota,PetFood,0.062500
+North Dakota,Plants,0.500000
+North Dakota,Poultry,0.125000
+North Dakota,Prepared,0.375000
+North Dakota,Seafood,0.000000
+North Dakota,Soap,0.437500
+North Dakota,Tofu,0.000000
+North Dakota,Trees,0.000000
+North Dakota,Vegetables,0.937500
+North Dakota,WildHarvested,0.000000
+North Dakota,Wine,0.062500
+Ohio,Bakedgoods,0.951087
+Ohio,Beans,0.146739
+Ohio,Cheese,0.478261
+Ohio,Coffee,0.418478
+Ohio,Crafts,0.608696
+Ohio,Eggs,0.673913
+Ohio,Flowers,0.733696
+Ohio,Fruits,0.896739
+Ohio,Grains,0.179348
+Ohio,Herbs,0.820652
+Ohio,Honey,0.858696
+Ohio,Jams,0.864130
+Ohio,Juices,0.250000
+Ohio,Maple,0.679348
+Ohio,Meat,0.554348
+Ohio,Mushrooms,0.201087
+Ohio,Nursery,0.032609
+Ohio,Nuts,0.152174
+Ohio,PetFood,0.260870
+Ohio,Plants,0.733696
+Ohio,Poultry,0.505435
+Ohio,Prepared,0.538043
+Ohio,Seafood,0.065217
+Ohio,Soap,0.771739
+Ohio,Tofu,0.027174
+Ohio,Trees,0.250000
+Ohio,Vegetables,0.983696
+Ohio,WildHarvested,0.108696
+Ohio,Wine,0.081522
+Oklahoma,Bakedgoods,0.558824
+Oklahoma,Beans,0.029412
+Oklahoma,Cheese,0.294118
+Oklahoma,Coffee,0.088235
+Oklahoma,Crafts,0.647059
+Oklahoma,Eggs,0.676471
+Oklahoma,Flowers,0.529412
+Oklahoma,Fruits,0.676471
+Oklahoma,Grains,0.058824
+Oklahoma,Herbs,0.764706
+Oklahoma,Honey,0.676471
+Oklahoma,Jams,0.588235
+Oklahoma,Juices,0.058824
+Oklahoma,Maple,0.058824
+Oklahoma,Meat,0.500000
+Oklahoma,Mushrooms,0.117647
+Oklahoma,Nursery,0.058824
+Oklahoma,Nuts,0.411765
+Oklahoma,PetFood,0.147059
+Oklahoma,Plants,0.735294
+Oklahoma,Poultry,0.294118
+Oklahoma,Prepared,0.441176
+Oklahoma,Seafood,0.029412
+Oklahoma,Soap,0.705882
+Oklahoma,Tofu,0.029412
+Oklahoma,Trees,0.205882
+Oklahoma,Vegetables,0.970588
+Oklahoma,WildHarvested,0.029412
+Oklahoma,Wine,0.117647
+Oregon,Bakedgoods,0.786885
+Oregon,Beans,0.172131
+Oregon,Cheese,0.467213
+Oregon,Coffee,0.434426
+Oregon,Crafts,0.647541
+Oregon,Eggs,0.737705
+Oregon,Flowers,0.754098
+Oregon,Fruits,0.786885
+Oregon,Grains,0.221311
+Oregon,Herbs,0.754098
+Oregon,Honey,0.770492
+Oregon,Jams,0.811475
+Oregon,Juices,0.303279
+Oregon,Maple,0.040984
+Oregon,Meat,0.622951
+Oregon,Mushrooms,0.360656
+Oregon,Nursery,0.024590
+Oregon,Nuts,0.475410
+Oregon,PetFood,0.188525
+Oregon,Plants,0.688525
+Oregon,Poultry,0.500000
+Oregon,Prepared,0.762295
+Oregon,Seafood,0.409836
+Oregon,Soap,0.688525
+Oregon,Tofu,0.065574
+Oregon,Trees,0.491803
+Oregon,Vegetables,0.868852
+Oregon,WildHarvested,0.368852
+Oregon,Wine,0.418033
+Pennsylvania,Bakedgoods,0.812500
+Pennsylvania,Beans,0.090278
+Pennsylvania,Cheese,0.562500
+Pennsylvania,Coffee,0.437500
+Pennsylvania,Crafts,0.409722
+Pennsylvania,Eggs,0.652778
+Pennsylvania,Flowers,0.604167
+Pennsylvania,Fruits,0.868056
+Pennsylvania,Grains,0.152778
+Pennsylvania,Herbs,0.618056
+Pennsylvania,Honey,0.659722
+Pennsylvania,Jams,0.659722
+Pennsylvania,Juices,0.277778
+Pennsylvania,Maple,0.437500
+Pennsylvania,Meat,0.534722
+Pennsylvania,Mushrooms,0.312500
+Pennsylvania,Nursery,0.034722
+Pennsylvania,Nuts,0.145833
+Pennsylvania,PetFood,0.229167
+Pennsylvania,Plants,0.493056
+Pennsylvania,Poultry,0.472222
+Pennsylvania,Prepared,0.576389
+Pennsylvania,Seafood,0.138889
+Pennsylvania,Soap,0.576389
+Pennsylvania,Tofu,0.034722
+Pennsylvania,Trees,0.145833
+Pennsylvania,Vegetables,0.958333
+Pennsylvania,WildHarvested,0.125000
+Pennsylvania,Wine,0.319444
+Rhode Island,Bakedgoods,0.676471
+Rhode Island,Beans,0.117647
+Rhode Island,Cheese,0.500000
+Rhode Island,Coffee,0.441176
+Rhode Island,Crafts,0.323529
+Rhode Island,Eggs,0.676471
+Rhode Island,Flowers,0.529412
+Rhode Island,Fruits,0.970588
+Rhode Island,Grains,0.117647
+Rhode Island,Herbs,0.647059
+Rhode Island,Honey,0.705882
+Rhode Island,Jams,0.529412
+Rhode Island,Juices,0.411765
+Rhode Island,Maple,0.294118
+Rhode Island,Meat,0.470588
+Rhode Island,Mushrooms,0.323529
+Rhode Island,Nursery,0.000000
+Rhode Island,Nuts,0.058824
+Rhode Island,PetFood,0.264706
+Rhode Island,Plants,0.470588
+Rhode Island,Poultry,0.411765
+Rhode Island,Prepared,0.617647
+Rhode Island,Seafood,0.382353
+Rhode Island,Soap,0.588235
+Rhode Island,Tofu,0.029412
+Rhode Island,Trees,0.088235
+Rhode Island,Vegetables,0.970588
+Rhode Island,WildHarvested,0.088235
+Rhode Island,Wine,0.000000
+South Carolina,Bakedgoods,0.865672
+South Carolina,Beans,0.164179
+South Carolina,Cheese,0.671642
+South Carolina,Coffee,0.432836
+South Carolina,Crafts,0.716418
+South Carolina,Eggs,0.820896
+South Carolina,Flowers,0.567164
+South Carolina,Fruits,0.820896
+South Carolina,Grains,0.194030
+South Carolina,Herbs,0.716418
+South Carolina,Honey,0.880597
+South Carolina,Jams,0.776119
+South Carolina,Juices,0.343284
+South Carolina,Maple,0.194030
+South Carolina,Meat,0.656716
+South Carolina,Mushrooms,0.134328
+South Carolina,Nursery,0.074627
+South Carolina,Nuts,0.462687
+South Carolina,PetFood,0.194030
+South Carolina,Plants,0.582090
+South Carolina,Poultry,0.447761
+South Carolina,Prepared,0.641791
+South Carolina,Seafood,0.537313
+South Carolina,Soap,0.761194
+South Carolina,Tofu,0.044776
+South Carolina,Trees,0.477612
+South Carolina,Vegetables,0.955224
+South Carolina,WildHarvested,0.104478
+South Carolina,Wine,0.104478
+South Dakota,Bakedgoods,0.913043
+South Dakota,Beans,0.260870
+South Dakota,Cheese,0.347826
+South Dakota,Coffee,0.391304
+South Dakota,Crafts,0.739130
+South Dakota,Eggs,0.826087
+South Dakota,Flowers,0.695652
+South Dakota,Fruits,0.739130
+South Dakota,Grains,0.217391
+South Dakota,Herbs,0.913043
+South Dakota,Honey,0.956522
+South Dakota,Jams,0.826087
+South Dakota,Juices,0.000000
+South Dakota,Maple,0.086957
+South Dakota,Meat,0.565217
+South Dakota,Mushrooms,0.000000
+South Dakota,Nursery,0.043478
+South Dakota,Nuts,0.000000
+South Dakota,PetFood,0.173913
+South Dakota,Plants,0.521739
+South Dakota,Poultry,0.478261
+South Dakota,Prepared,0.608696
+South Dakota,Seafood,0.086957
+South Dakota,Soap,0.782609
+South Dakota,Tofu,0.043478
+South Dakota,Trees,0.130435
+South Dakota,Vegetables,1.000000
+South Dakota,WildHarvested,0.043478
+South Dakota,Wine,0.043478
+Tennessee,Bakedgoods,0.926829
+Tennessee,Beans,0.134146
+Tennessee,Cheese,0.487805
+Tennessee,Coffee,0.414634
+Tennessee,Crafts,0.682927
+Tennessee,Eggs,0.865854
+Tennessee,Flowers,0.743902
+Tennessee,Fruits,0.865854
+Tennessee,Grains,0.280488
+Tennessee,Herbs,0.841463
+Tennessee,Honey,0.926829
+Tennessee,Jams,0.902439
+Tennessee,Juices,0.292683
+Tennessee,Maple,0.158537
+Tennessee,Meat,0.743902
+Tennessee,Mushrooms,0.378049
+Tennessee,Nursery,0.012195
+Tennessee,Nuts,0.317073
+Tennessee,PetFood,0.329268
+Tennessee,Plants,0.707317
+Tennessee,Poultry,0.573171
+Tennessee,Prepared,0.609756
+Tennessee,Seafood,0.195122
+Tennessee,Soap,0.792683
+Tennessee,Tofu,0.036585
+Tennessee,Trees,0.317073
+Tennessee,Vegetables,0.975610
+Tennessee,WildHarvested,0.219512
+Tennessee,Wine,0.036585
+Texas,Bakedgoods,0.921260
+Texas,Beans,0.157480
+Texas,Cheese,0.488189
+Texas,Coffee,0.559055
+Texas,Crafts,0.653543
+Texas,Eggs,0.905512
+Texas,Flowers,0.551181
+Texas,Fruits,0.850394
+Texas,Grains,0.236220
+Texas,Herbs,0.818898
+Texas,Honey,0.889764
+Texas,Jams,0.921260
+Texas,Juices,0.362205
+Texas,Maple,0.204724
+Texas,Meat,0.787402
+Texas,Mushrooms,0.220472
+Texas,Nursery,0.031496
+Texas,Nuts,0.574803
+Texas,PetFood,0.370079
+Texas,Plants,0.645669
+Texas,Poultry,0.582677
+Texas,Prepared,0.692913
+Texas,Seafood,0.259843
+Texas,Soap,0.881890
+Texas,Tofu,0.055118
+Texas,Trees,0.377953
+Texas,Vegetables,0.976378
+Texas,WildHarvested,0.228346
+Texas,Wine,0.267717
+Utah,Bakedgoods,0.967742
+Utah,Beans,0.193548
+Utah,Cheese,0.548387
+Utah,Coffee,0.483871
+Utah,Crafts,0.774194
+Utah,Eggs,0.806452
+Utah,Flowers,0.548387
+Utah,Fruits,0.870968
+Utah,Grains,0.129032
+Utah,Herbs,0.870968
+Utah,Honey,0.903226
+Utah,Jams,0.806452
+Utah,Juices,0.354839
+Utah,Maple,0.064516
+Utah,Meat,0.516129
+Utah,Mushrooms,0.193548
+Utah,Nursery,0.064516
+Utah,Nuts,0.322581
+Utah,PetFood,0.193548
+Utah,Plants,0.548387
+Utah,Poultry,0.258065
+Utah,Prepared,0.741935
+Utah,Seafood,0.193548
+Utah,Soap,0.838710
+Utah,Tofu,0.000000
+Utah,Trees,0.193548
+Utah,Vegetables,1.000000
+Utah,WildHarvested,0.193548
+Utah,Wine,0.064516
+Vermont,Bakedgoods,0.970588
+Vermont,Beans,0.235294
+Vermont,Cheese,0.661765
+Vermont,Coffee,0.441176
+Vermont,Crafts,0.926471
+Vermont,Eggs,0.852941
+Vermont,Flowers,0.735294
+Vermont,Fruits,0.779412
+Vermont,Grains,0.117647
+Vermont,Herbs,0.867647
+Vermont,Honey,0.794118
+Vermont,Jams,0.941176
+Vermont,Juices,0.470588
+Vermont,Maple,0.897059
+Vermont,Meat,0.794118
+Vermont,Mushrooms,0.279412
+Vermont,Nursery,0.058824
+Vermont,Nuts,0.088235
+Vermont,PetFood,0.132353
+Vermont,Plants,0.735294
+Vermont,Poultry,0.720588
+Vermont,Prepared,0.911765
+Vermont,Seafood,0.102941
+Vermont,Soap,0.794118
+Vermont,Tofu,0.088235
+Vermont,Trees,0.161765
+Vermont,Vegetables,0.955882
+Vermont,WildHarvested,0.367647
+Vermont,Wine,0.352941
+Virginia,Bakedgoods,0.966851
+Virginia,Beans,0.149171
+Virginia,Cheese,0.558011
+Virginia,Coffee,0.408840
+Virginia,Crafts,0.662983
+Virginia,Eggs,0.928177
+Virginia,Flowers,0.773481
+Virginia,Fruits,0.889503
+Virginia,Grains,0.110497
+Virginia,Herbs,0.828729
+Virginia,Honey,0.812155
+Virginia,Jams,0.906077
+Virginia,Juices,0.303867
+Virginia,Maple,0.187845
+Virginia,Meat,0.790055
+Virginia,Mushrooms,0.320442
+Virginia,Nursery,0.038674
+Virginia,Nuts,0.325967
+Virginia,PetFood,0.298343
+Virginia,Plants,0.762431
+Virginia,Poultry,0.696133
+Virginia,Prepared,0.740331
+Virginia,Seafood,0.337017
+Virginia,Soap,0.740331
+Virginia,Tofu,0.038674
+Virginia,Trees,0.408840
+Virginia,Vegetables,0.977901
+Virginia,WildHarvested,0.176796
+Virginia,Wine,0.254144
+Washington,Bakedgoods,0.931298
+Washington,Beans,0.274809
+Washington,Cheese,0.709924
+Washington,Coffee,0.412214
+Washington,Crafts,0.770992
+Washington,Eggs,0.770992
+Washington,Flowers,0.916031
+Washington,Fruits,0.893130
+Washington,Grains,0.099237
+Washington,Herbs,0.862595
+Washington,Honey,0.908397
+Washington,Jams,0.847328
+Washington,Juices,0.305344
+Washington,Maple,0.030534
+Washington,Meat,0.603053
+Washington,Mushrooms,0.221374
+Washington,Nursery,0.053435
+Washington,Nuts,0.480916
+Washington,PetFood,0.190840
+Washington,Plants,0.755725
+Washington,Poultry,0.488550
+Washington,Prepared,0.839695
+Washington,Seafood,0.450382
+Washington,Soap,0.786260
+Washington,Tofu,0.015267
+Washington,Trees,0.480916
+Washington,Vegetables,0.977099
+Washington,WildHarvested,0.229008
+Washington,Wine,0.450382
+West Virginia,Bakedgoods,0.964286
+West Virginia,Beans,0.125000
+West Virginia,Cheese,0.285714
+West Virginia,Coffee,0.250000
+West Virginia,Crafts,0.732143
+West Virginia,Eggs,0.875000
+West Virginia,Flowers,0.571429
+West Virginia,Fruits,0.785714
+West Virginia,Grains,0.214286
+West Virginia,Herbs,0.785714
+West Virginia,Honey,0.875000
+West Virginia,Jams,0.857143
+West Virginia,Juices,0.196429
+West Virginia,Maple,0.482143
+West Virginia,Meat,0.571429
+West Virginia,Mushrooms,0.125000
+West Virginia,Nursery,0.035714
+West Virginia,Nuts,0.107143
+West Virginia,PetFood,0.125000
+West Virginia,Plants,0.732143
+West Virginia,Poultry,0.535714
+West Virginia,Prepared,0.392857
+West Virginia,Seafood,0.107143
+West Virginia,Soap,0.642857
+West Virginia,Tofu,0.000000
+West Virginia,Trees,0.267857
+West Virginia,Vegetables,0.964286
+West Virginia,WildHarvested,0.107143
+West Virginia,Wine,0.035714
+Wisconsin,Bakedgoods,0.877551
+Wisconsin,Beans,0.163265
+Wisconsin,Cheese,0.494898
+Wisconsin,Coffee,0.341837
+Wisconsin,Crafts,0.688776
+Wisconsin,Eggs,0.647959
+Wisconsin,Flowers,0.857143
+Wisconsin,Fruits,0.785714
+Wisconsin,Grains,0.137755
+Wisconsin,Herbs,0.872449
+Wisconsin,Honey,0.892857
+Wisconsin,Jams,0.908163
+Wisconsin,Juices,0.214286
+Wisconsin,Maple,0.734694
+Wisconsin,Meat,0.617347
+Wisconsin,Mushrooms,0.346939
+Wisconsin,Nursery,0.096939
+Wisconsin,Nuts,0.183673
+Wisconsin,PetFood,0.163265
+Wisconsin,Plants,0.734694
+Wisconsin,Poultry,0.515306
+Wisconsin,Prepared,0.551020
+Wisconsin,Seafood,0.265306
+Wisconsin,Soap,0.760204
+Wisconsin,Tofu,0.020408
+Wisconsin,Trees,0.285714
+Wisconsin,Vegetables,0.969388
+Wisconsin,WildHarvested,0.188776
+Wisconsin,Wine,0.040816
+Wyoming,Bakedgoods,0.967742
+Wyoming,Beans,0.064516
+Wyoming,Cheese,0.516129
+Wyoming,Coffee,0.387097
+Wyoming,Crafts,0.774194
+Wyoming,Eggs,0.806452
+Wyoming,Flowers,0.322581
+Wyoming,Fruits,0.612903
+Wyoming,Grains,0.161290
+Wyoming,Herbs,0.709677
+Wyoming,Honey,0.677419
+Wyoming,Jams,0.903226
+Wyoming,Juices,0.129032
+Wyoming,Maple,0.129032
+Wyoming,Meat,0.516129
+Wyoming,Mushrooms,0.161290
+Wyoming,Nursery,0.064516
+Wyoming,Nuts,0.161290
+Wyoming,PetFood,0.096774
+Wyoming,Plants,0.290323
+Wyoming,Poultry,0.354839
+Wyoming,Prepared,0.516129
+Wyoming,Seafood,0.161290
+Wyoming,Soap,0.774194
+Wyoming,Tofu,0.000000
+Wyoming,Trees,0.129032
+Wyoming,Vegetables,0.935484
+Wyoming,WildHarvested,0.096774
+Wyoming,Wine,0.064516
